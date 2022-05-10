@@ -17,8 +17,8 @@ What I did:
 * I changed the heading elements to be sequential
 
 I added a screenshots of the site:
-/assets/images/screenshot1.jpg
-/assets/images/screenshot2.jpg
+./assets/images/screenshot1.jpg
+./assets/images/screenshot2.jpg
 
 
 The site can be viewed here:
