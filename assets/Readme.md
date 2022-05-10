@@ -16,9 +16,8 @@ What I did:
 * I added alt attritubtes to the images
 * I changed the heading elements to be sequential
 
-I added a screenshots of the site:
-./assets/images/screenshot1.jpg
-./assets/images/screenshot2.jpg
+I added a screenshots of the site which can be viewed here:
+https://imgur.com/a/YorjQyB
 
 
 The site can be viewed here:
